@@ -8,8 +8,8 @@
    - [Взаимодействие ленты новостей и мессенджера](dashboards/feed_and_messenger.gif)
 2. Анализ продуктовых метрик
    - [Retention пользователей с разным трафиком](product_metrics/retention)
-   - [Просадка активных пользователей](product_metrics/retention)
-   - [Аномалия новых пользователей](product_metrics/loss)
+   - [Аномалия новых пользователей](product_metrics/retention)
+   - [Просадка активных пользователей](product_metrics/loss)
 3. A/B-тестирование
    - A/A-тестирование
    - Методы проверок гипотез
